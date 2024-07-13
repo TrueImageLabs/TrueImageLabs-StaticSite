@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://trueimagelabs.org/Home.html</loc>
-        <lastmod>2024-06-27T10:49:08-07:00</lastmod>
+        <lastmod>2024-07-13T14:10:56-07:00</lastmod>
     </url>
     <url>
         <loc>https://trueimagelabs.org/index.html</loc>
-        <lastmod>2024-06-27T10:49:08-07:00</lastmod>
+        <lastmod>2024-07-13T14:10:56-07:00</lastmod>
     </url>
     <url>
         <loc>https://trueimagelabs.org/About.html</loc>
-        <lastmod>2024-06-12T17:51:30-07:00</lastmod>
+        <lastmod>2024-07-13T13:02:53-07:00</lastmod>
     </url>
     <url>
         <loc>https://trueimagelabs.org/Contact.html</loc>
@@ -21,11 +21,15 @@
         <lastmod>2024-06-29T18:21:20-07:00</lastmod>
     </url>
     <url>
+        <loc>https://trueimagelabs.org/Detectors.html</loc>
+        <lastmod>2024-07-13T13:38:42-07:00</lastmod>
+    </url>
+    <url>
         <loc>https://trueimagelabs.org/blog/looking-for-new-volunteers-and-recruits.html</loc>
         <lastmod>2024-06-27T10:37:31-07:00</lastmod>
     </url>
     <url>
         <loc>https://trueimagelabs.org/blog/blog.html</loc>
-        <lastmod>2024-06-29T18:21:22-07:00</lastmod>
+        <lastmod>2024-07-13T14:10:57-07:00</lastmod>
     </url>
 </urlset>
