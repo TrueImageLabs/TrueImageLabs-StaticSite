@@ -43865,17 +43865,13 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-image-1 {
   width: 360px;
-  left: -101px;
+  left: -244px;
   right: auto;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
     margin-right: 100px;
-  }
-
-  .u-header .u-image-1 {
-    left: 35px;
   }
 }
 @media (max-width: 991px) {
